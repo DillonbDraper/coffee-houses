@@ -1,0 +1,18 @@
+.pageHeader {
+    display: flex;
+    justify-content: center;
+}
+
+.list {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.shop {
+    flex-basis: 30%;
+    border: dotted 1px black;
+    margin-left: auto;
+    margin-right: auto;
+
+}
